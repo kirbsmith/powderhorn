@@ -198,7 +198,12 @@
   }
 
   .slideImage{
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 300px;
+  }
+
+  .descriptionParagraph{
+    text-align: left;
+    font-size: .9rem;
   }
 }
