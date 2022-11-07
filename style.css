@@ -206,4 +206,15 @@
     text-align: left;
     font-size: .9rem;
   }
+
+  .next{
+    right: 0;
+    margin-right: 1rem;
+    top: 70%;
+  }
+
+  .prev{
+    margin-left: 1rem;
+    top: 70%;
+  }
 }
