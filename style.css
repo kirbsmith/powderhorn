@@ -183,3 +183,17 @@
 #slideShow{
   position: relative;
 }
+
+@media only screen and (max-width: 600px){
+  *{
+    overflow-x: hidden;
+  }
+
+  #title{
+    font-size: 1.4rem;
+  }
+
+  #descriptionHeading{
+    font-size: 1.2rem;
+  }
+}
