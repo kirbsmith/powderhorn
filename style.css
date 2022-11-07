@@ -190,10 +190,15 @@
   }
 
   #title{
-    font-size: 1.4rem;
+    font-size: 3rem;
   }
 
   #descriptionHeading{
-    font-size: 1.2rem;
+    font-size: 2rem;
+  }
+
+  .slideImage{
+    width: 100%;
+    height: auto;
   }
 }
